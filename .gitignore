@@ -1,0 +1,5 @@
+.jovianrc
+paysim1/
+output/processed_data
+.ipynb_checkpoints/
+output/ipynb_checkpoints/
